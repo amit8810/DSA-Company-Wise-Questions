@@ -3,3 +3,4 @@
 ## CISCO
 - Missinig Number in Array
 - Kth smallest element in the array
+- Palindromic String
