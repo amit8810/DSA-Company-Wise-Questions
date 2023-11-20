@@ -14,6 +14,8 @@ Output : 7
 Explanation :
 3rd smallest element in the given 
 array is 7.
+
+GFG : https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&company=Cisco&sortBy=submissions
 */
 #include<iostream>
 #include<algorithm>
